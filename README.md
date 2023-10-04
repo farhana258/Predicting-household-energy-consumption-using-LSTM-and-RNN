@@ -1,1 +1,1 @@
-# Predicting-household-energy-consumption-using-LSTM-and-RNN
+# Predicting-household-energy-consumption-using-LSTM
